@@ -24,3 +24,5 @@
 
   - name: Show version
     debug: msg="Router {{ inventory_hostname }} is running {{ version }}"
+
+####
